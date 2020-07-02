@@ -1,5 +1,3 @@
-# bidhana-adminpanel
-
 ## Project setup
 ```
 npm install
